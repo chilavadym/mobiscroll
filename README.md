@@ -112,39 +112,3 @@ You can optionally provide an action with the message - such as UNDO or RETRY - 
 
 <img src="https://github.com/chilavadym/mobiscroll/blob/master/img/notifications.png?raw=true" width="50%">
 
-Commercial Components
------------------
-
-#### Date & time pickers
-
-* [Calendar](https://demo.mobiscroll.com/calendar)
-* [Date & Time](https://demo.mobiscroll.com/datetime)
-* [Range](https://demo.mobiscroll.com/range)
-* [Timespan](https://demo.mobiscroll.com/timespan)
-
-#### Event calendar
-
-* [Agenda](https://demo.mobiscroll.com/agenda)
-* [Calendar view](https://demo.mobiscroll.com/eventcalendar)
-* [Scheduler](https://demo.mobiscroll.com/scheduler)
-
-#### Pickers & dropdowns
-
-* [Select](https://demo.mobiscroll.com/select)
-* [Scroller](https://demo.mobiscroll.com/scroller)
-* [Treelist](https://demo.mobiscroll.com/list)
-* [Image](https://demo.mobiscroll.com/image)
-* [Color](https://demo.mobiscroll.com/color)
-* [Optionlist](https://demo.mobiscroll.com/optionlist)
-
-#### Pickers & dropdowns
-
-* [Numpad](https://demo.mobiscroll.com/numpad)
-* [Number](https://demo.mobiscroll.com/number)
-* [Measurement](https://demo.mobiscroll.com/measurement)
-
-#### Gesture enabled responsive list
-
-* [Listview](https://demo.mobiscroll.com/listview)
-* [Scrollview](https://demo.mobiscroll.com/scrollview)
-* [Cards](https://demo.mobiscroll.com/cards)
