@@ -23,7 +23,7 @@ Text fields are the backbone of every form. Use them to capture a wide range of 
 
 Use labels, icons, placeholders or a combination of them to help users get meaning at a glance. Show/hide functionality built in for password fields.
 
-<img src="https://github.com/acidb/mobiscroll/blob/master/img/text-input.png?raw=true" width="50%">
+<img src="https://github.com/chilavadym/mobiscroll/blob/master/img/text-input.png?raw=true" width="50%">
 
 #### Select styling ([live example](https://demo.mobiscroll.com/inputs-fields/select))
 
